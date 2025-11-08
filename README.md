@@ -1,50 +1,16 @@
 # jardelferreiraa
 
-Olá! Meu nome é Jardel Ferreira, tenho 22 anos e sou do Ceará. Formado pelo IFCE em um ensino médio/técnico em edificações, atualmente estudo Engenharia de Software na universidade internacional - UNINTER. Sou apaixonado por tecnologia e matemática, e gosto de transformar o que aprendo em projetos práticos e soluções através de código.
+🖥️ Sou estudante de engenharia de software com o objetivo de se tornar um profissional em desenvolvimento full-stack.
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/JavaScript-4f400c?style=for-the-badge&logo=javascript" alt="JS">
+  <img src="https://img.shields.io/badge/Python-0a2138?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Git-592a13?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/React-0c2348?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Node.Js-0c3028?style=for-the-badge&logo=nodedotjs" alt="Node JS">
+</div>
 <br/>
 
 ### 📊 Estatísticas
