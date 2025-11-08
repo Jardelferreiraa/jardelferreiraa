@@ -1,38 +1,52 @@
-# jardelferreiraa
+<img src="https://img.shields.io/badge/👋_Bem_vindo_ao_meu_perfil!_-332015?style=for-the-badge&logo=github&logoColor=f59e0b">
 
-🖥️ Em formação como Engenheiro de Software dedicado a criar soluções completas, do front ao back-end.
+# jardelferreiraa ![Status](https://img.shields.io/badge/Status:-Aprendendo_e_Evoluindo🚀-f59e0b?style=for-the-badge&labelColor=0a0a0a)
 
-### **🤖 Linguagens e Tecnologias**
 
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/JavaScript-4f400c?style=for-the-badge&logo=javascript" alt="JS">
-  <img src="https://img.shields.io/badge/Python-0a2138?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Git-592a13?style=for-the-badge&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/React-0c2348?style=for-the-badge&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Node.Js-0c3028?style=for-the-badge&logo=nodedotjs" alt="Node JS">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt= "CSS3">
+🖥️ Engenheiro de software em formação com interesse em tecnologias web e arquitetura full-stack.
+
+---
+
+### 🤖 Tecnologias e Linguagens que fazem parte da minha jornada de aprendizado:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,linux&theme=dark" />
 </div>
 
-### **📊 Estatísticas**
-<div align="center" style="display: inline">
-   <a href="https://github.com/jardelferreiraa">
-   <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jardelferreiraa&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelferreiraa&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
-   </div>
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/jardelferreiraa">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jardelferreiraa&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000,0a0a0a,1c140d,332015&border_color=4d3423&title_color=d97706&text_color=e5e5e5&icon_color=f59e0b&cache_seconds=86400"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelferreiraa&layout=compact&langs_count=7&bg_color=000000,0a0a0a,1c140d,332015&border_color=4d3423&title_color=d97706&text_color=e5e5e5&icon_color=f59e0b&cache_seconds=86400"/>
+  </a>
+  <br>
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=jardelferreiraa&background=000000,0a0a0a,1c140d,332015&border=4d3423&ring=f59e0b&fire=d97706&currStreakNum=e5e5e5&currStreakLabel=d97706&sideNums=e5e5e5&sideLabels=d97706&dates=f5deb3&v=8"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=jardelferreiraa&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&title=MultiLanguage,Commit,Stars,Followers,Repositories,PullRequest,Issues&v=8"/>
 </div>
-     
-***
-     
-<div>
-  <a href="https://www.linkedin.com/in/jardelferreiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/jardelj_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jardeljunior2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- <picture>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jardelferreiraa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://www.instagram.com/jardelj_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="mailto:jardeljunior2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</div>
+
+---
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jardelferreiraa/jardelferreiraa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jardelferreiraa/jardelferreiraae/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jardelferreiraa/jardelferreiraa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jardelferreiraa/jardelferreiraa/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br/>
+
+<div align="right">
+  <img src="https://img.shields.io/badge/%20Obrigado%20por%20visitar!-000000?style=for-the-badge&labelColor=1c140d&logo=github&logoColor=f59e0b&label=" alt="Bem vindo">
 </div>
+
