@@ -2,7 +2,6 @@
 
 # jardelferreiraa ![Status](https://img.shields.io/badge/Status:-Aprendendo_e_Evoluindo🚀-f59e0b?style=for-the-badge&labelColor=0a0a0a)
 
-
 🖥️ Engenheiro de software em formação com interesse em tecnologias web e arquitetura full-stack.
 
 ---
@@ -45,6 +44,10 @@
 </picture>
 
 <br/>
+
+<div align="right">
+  <img src="https://img.shields.io/badge/✝️-JESUS é o caminho, a verdade e a vida!-000000?style=for-the-badge&labelColor=1a0f00&color=9c6a3f&logoColor=f5b642">
+</div>
 
 <div align="right">
   <img src="https://img.shields.io/badge/%20Obrigado%20por%20visitar!-000000?style=for-the-badge&labelColor=1c140d&logo=github&logoColor=f59e0b&label=" alt="Bem vindo">
