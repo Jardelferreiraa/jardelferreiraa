@@ -26,7 +26,7 @@
 
   <br>
 
-  <img height="175em"
+  <img height="165em"
     src="https://github-readme-streak-stats.herokuapp.com?user=jardelferreiraa&background=000000,0a0a0a,1c140d,332015&border=4d3423&ring=f59e0b&fire=d97706&currStreakNum=e5e5e5&currStreakLabel=d97706&sideNums=e5e5e5&sideLabels=d97706&dates=f5deb3&v=8"
   />
 
