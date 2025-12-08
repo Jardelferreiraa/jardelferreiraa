@@ -9,7 +9,7 @@
 ### 🤖 Tecnologias e Linguagens que fazem parte da minha jornada de aprendizado:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,java,git,github,vscode,linux&theme=dark" />
 </div>
 
 ---
