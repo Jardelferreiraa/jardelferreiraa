@@ -9,7 +9,7 @@
 ### 🤖 Tecnologias e Linguagens que fazem parte da minha jornada de aprendizado:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,java,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,git,github,linux,vscode&theme=dark" />
 </div>
 
 ---
@@ -17,26 +17,19 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/jardelferreiraa">
-    <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jardelferreiraa&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000,0a0a0a,1c140d,332015&border_color=4d3423&title_color=d97706&text_color=e5e5e5&icon_color=f59e0b"
-    />
-    <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jardelferreiraa&layout=compact&langs_count=7&bg_color=000000,0a0a0a,1c140d,332015&border_color=4d3423&title_color=d97706&text_color=e5e5e5&icon_color=f59e0b"
-    />
-  </a>
-
-  <br>
-
-  <img height="135em"
-    src="https://github-readme-streak-stats.herokuapp.com?user=jardelferreiraa&background=000000,0a0a0a,1c140d,332015&border=4d3423&ring=f59e0b&fire=d97706&currStreakNum=e5e5e5&currStreakLabel=d97706&sideNums=e5e5e5&sideLabels=d97706&dates=f5deb3&v=8"
+  <img height="150"
+    src="https://github-readme-stats.vercel.app/api?username=jardelferreiraa&show_icons=true&theme=dark&hide_border=true"
+  />
+  <img height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelferreiraa&layout=compact&theme=dark&hide_border=true"
   />
 
-  <br>
+  <br><br>
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jardelferreiraa&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&title=MultiLanguage,Commit,Stars,Followers,Repositories,PullRequest,Issues&v=8"
+  <img height="150"
+    src="https://streak-stats.demolab.com?user=jardelferreiraa&theme=dark&hide_border=true"
   />
 </div>
-
 
 ---
 
