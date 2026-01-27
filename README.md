@@ -1,15 +1,14 @@
 <img src="https://img.shields.io/badge/👋_Bem_vindo_ao_meu_perfil!_-332015?style=for-the-badge&logo=github&logoColor=f59e0b">
 
-# jardelferreiraa ![Status](https://img.shields.io/badge/Status:-Aprendendo_e_Evoluindo🚀-f59e0b?style=for-the-badge&labelColor=0a0a0a)
-
-🖥️ Engenheiro de software em formação com interesse em tecnologias web e arquitetura full-stack.
+# jardelferreiraa 
+🖥️ Formando em Engenharia de Software, com interesse em desenvolvimento de software e arquitetura de sistemas.
 
 ---
 
 ### 🤖 Tecnologias e Linguagens que fazem parte da minha jornada de aprendizado:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,git,linux,vscode&theme=dark" />
 </div>
 
 ---
