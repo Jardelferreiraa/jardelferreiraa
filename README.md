@@ -1,10 +1,13 @@
 ## Olá, eu sou Jardel 👋
 
-🎓 Engenharia de Software (em formação)  
-💻 Desenvolvimento de software com foco em back-end  
-☕ Explorando Java
+🎓 Estudante de Engenharia de Software  
+💻 Interesse em desenvolvimento back-end, com base em tecnologias front-end
 
-⚙️ Tecnologias: Python · JavaScript · HTML5 · CSS3 · Git
+### 🚀 Tecnologias que estudo e utilizo
+JavaScript · TypeScript ·  Node.js · Python · HTML5 · CSS3 · Git
+
+### 📚 Sobre mim
+Atualmente estou focado em construir uma base sólida em desenvolvimento web, estudando tanto front-end quanto back-end, com ênfase em JavaScript, TypeScript e Node.js. Busco evoluir constantemente através de projetos práticos e estudos contínuos.
 
 📫 Contato  
 - LinkedIn: https://www.linkedin.com/in/jardelferreiraa  
