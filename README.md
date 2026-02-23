@@ -1,20 +1,18 @@
-## Olá, eu sou Jardel 👋
+## Jardel  
 
-🎓 Estudante de Engenharia de Software  
-💻 Interesse em desenvolvimento back-end, com base em tecnologias front-end
+🎓 Estudante de Engenharia de Software com foco em desenvolvimeneto Back-end.  
 
-### 🚀 Tecnologias que estudo e utilizo
-JavaScript · TypeScript ·  Node.js · Python · HTML5 · CSS3 · Git
+ 
+🛠️ Ferramentas que utilizo e estudo:
 
-### 📚 Sobre mim
-Atualmente estou focado em construir uma base sólida em desenvolvimento web, estudando tanto front-end quanto back-end, com ênfase em JavaScript, TypeScript e Node.js. Busco evoluir constantemente através de projetos práticos e estudos contínuos.
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-0a2138?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-0a2138?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-0a2138?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0a2138?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Git-0a2138?style=for-the-badge&logo=git" />
+</p>
 
-📫 Contato  
-- LinkedIn: https://www.linkedin.com/in/jardelferreiraa  
-- Instagram: https://www.instagram.com/jardelj_/  
-- E-mail: jardeljunior2003@gmail.com
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jardelferreiraa/jardelferreiraa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jardelferreiraa/jardelferreiraa/output/github-contribution-grid-snake.svg">
