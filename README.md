@@ -1,7 +1,6 @@
 ## Jardel  
 
-🎓 Estudante de Engenharia de Software com foco em desenvolvimeneto Back-end.  
-
+🎓 Estudante de Engenharia de Software com foco em desenvolvimento Back-end.  
  
 🛠️ Ferramentas que utilizo e estudo:
 
