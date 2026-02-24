@@ -1,14 +1,14 @@
 ## Jardel  
 
-🎓 Estudante de Engenharia de Software com foco em desenvolvimento Back-end.  
- 
-🛠️ Ferramentas que utilizo e estudo:
+🎓 Estudante de Engenharia de Software.  
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-0a2138?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-0a2138?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-0a2138?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/TypeScript-0a2138?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Angular-0a2138?style=for-the-badge&logo=angular" />
   <img src="https://img.shields.io/badge/PostgreSQL-0a2138?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Java-0a2138?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-0a2138?style=for-the-badge&logo=springboot" />
   <img src="https://img.shields.io/badge/Git-0a2138?style=for-the-badge&logo=git" />
 </p>
 
