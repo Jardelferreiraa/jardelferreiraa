@@ -2,13 +2,12 @@
 
 ### 👨‍💻 Sobre Mim:
 - 🎓 Estudante de **Engenharia de Software**.
-- ⚡ **Fullstack Developer com foco em Java**.
 
 ---
 
 ### 🛠️ No que eu ando mexendo (Tech Stack)
 
-**Principal (Foco):**
+**Principal:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -16,9 +15,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Minha Caixa de Ferramentas:**
-- **Linguagens/Web:** JavaScript, TypeScript, HTML5 e CSS3.
+- **Linguagens/Web:** JavaScript, HTML5 e CSS3.
 - **Bancos de Dados:** PostgreSQL e MongoDB (NoSQL).
-- **Processos:** Metodologias Ágeis (Kanban e Scrum).
+- **Outros:** Metodologias Ágeis (Kanban e Scrum).
 
 ---
 
